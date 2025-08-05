@@ -1,1 +1,1 @@
-# odin-recipes
+This is a first project I am attempting following The Odin Project HTML basics. Hope all goes well. # odin-recipes
